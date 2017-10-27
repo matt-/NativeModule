@@ -1,6 +1,6 @@
 {
   "name": "nativemodule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get access to Node's internal NativeModule Object",
   "main": "index.js",
   "scripts": {
