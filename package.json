@@ -1,0 +1,23 @@
+{
+  "name": "nativemodule",
+  "version": "1.0.0",
+  "description": "Get access to Node's internal NativeModule Object",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-/NativeModule.git"
+  },
+  "keywords": [
+    "NativeModule",
+    "Native"
+  ],
+  "author": "Matt Austin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-/NativeModule/issues"
+  },
+  "homepage": "https://github.com/matt-/NativeModule#readme"
+}
